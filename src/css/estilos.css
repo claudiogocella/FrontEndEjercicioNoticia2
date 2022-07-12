@@ -1,0 +1,22 @@
+body {
+  /*background-color: rgb(171, 215, 241);*/
+  background-image: url(23convocados.jpg);
+}
+
+/*Selector tag*/
+h1 {
+  color: royalblue;
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: red;
+  font-size: 20px;
+}
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+}
